@@ -1,0 +1,554 @@
+﻿Record_ID,Source_Row,Farmer_Name,Territory,Depot,Crop,Meeting_Location,Mobile_Number,Call_Status,Attendance_Response,Preferred_Product_Response,Purchase_Response,Recommendation_Response,Future_Meeting_Interest_Response,Representative_Contact_Interest_Response,Comment,Phone_Data_Status,Valid_Mobile_Flag,Call_Success_Flag,Meeting_Attendance_Flag,Feedback_Response_Count,Preferred_Product_List_Standardized,Preferred_Product_Count,Purchased_Product_List_Standardized,Purchased_Product_Count,Purchase_Stage_Score,Preference_Response_Status,Survey_Response_Status,Data_Quality_Flag,Territory_Barguna,Territory_Patuakhali,Territory_Charfashon,Territory_Kalapara
+1,3,Md. Monir Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01740810873,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,0,1
+2,4,Md. Hamim,Kalapara,Barishal,Watermelon,Dakshin Debpur,01736399686,Successful,,,,,,,,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+3,5,Md. Harun Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01745429530,Successful,Yes,Litosen,Litosen,Yes,Yes,Yes,,Valid,1,1,1,6,Litosen,1,Litosen,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+4,6,Md. Kamal Mia,Kalapara,Barishal,Watermelon,Dakshin Debpur,01759171520,Successful,,,,,,,,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+5,7,Md. Amir Hossain,Kalapara,Barishal,Watermelon,Dakshin Debpur,01722165463,Successful,Yes,"Kurenox, Zinc, Boron","Kurenox, Zinc, Boron",Yes,Yes,Yes,,Valid,1,1,1,6,"Kurenox, Zinc, Boron",3,"Kurenox, Zinc, Boron",3,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+6,8,Akkas Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,01748265310,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+7,9,Bellal Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01709789929,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+8,10,Md. Rafiqul Islam / B.4.B,Kalapara,Barishal,Watermelon,Dakshin Debpur,01735458986,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,0,1
+9,11,Nihar Sarkar,Kalapara,Barishal,Watermelon,Dakshin Debpur,01322996490,Successful,,,,,,,,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+10,12,Iusuf Mridha,Kalapara,Barishal,Watermelon,Dakshin Debpur,01617920478,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+11,13,Sojib Jamaddar,Kalapara,Barishal,Watermelon,Dakshin Debpur,01753989032,Successful,,,,,,,Does not work in agriculture,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+12,14,Ibhan Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01745273474,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,0,1
+13,15,Ajan,Kalapara,Barishal,Watermelon,Dakshin Debpur,01608576260,Successful,Yes,,,Yes,Yes,Yes,,Valid,1,1,1,4,,,,,,Missing,Partial survey response,Partial survey response,0,0,0,1
+14,16,Rijaj Mridha,Kalapara,Barishal,Watermelon,Dakshin Debpur,01727312275,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+15,17,Enamul Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,01785955698,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+16,18,Humajon Kabir,Kalapara,Barishal,Watermelon,Dakshin Debpur,01728693602,Successful,,,,,,,,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+17,19,Md. Reja,Kalapara,Barishal,Watermelon,Dakshin Debpur,01304367542,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+18,20,Md. Ratul Mridha,Kalapara,Barishal,Watermelon,Dakshin Debpur,01788936562,Wrong Number,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+19,21,Baijit Pyada,Kalapara,Barishal,Watermelon,Dakshin Debpur,01778896579,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+20,22,Kaosar,Kalapara,Barishal,Watermelon,Dakshin Debpur,01737926771,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+21,23,Ruhul Amin,Kalapara,Barishal,Watermelon,Dakshin Debpur,01761610560,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+22,24,Mijan Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+23,25,Modhu Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+24,26,Al Amin Gazi,Kalapara,Barishal,Watermelon,Dakshin Debpur,01716232865,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+25,27,Fojolu Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+26,28,Amchhar Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+27,29,Ibrahim Kholil,Kalapara,Barishal,Watermelon,Dakshin Debpur,01712569344,Wrong Number,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+28,30,Md. Bahadur Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+29,31,Kalam Biswas,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+30,32,Kaosar Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01775188109,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+31,33,Roni Bhuiya,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+32,34,Obaidul Islam,Kalapara,Barishal,Watermelon,Dakshin Debpur,01714151727,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+33,35,Shihab Gazi,Kalapara,Barishal,Watermelon,Dakshin Debpur,01340288211,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+34,36,Rifat Gazi,Kalapara,Barishal,Watermelon,Dakshin Debpur,01604317162,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+35,37,Baijit,Kalapara,Barishal,Watermelon,Dakshin Debpur,01722164422,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,0,1
+36,38,Md. Rubel Pyada,Kalapara,Barishal,Watermelon,Dakshin Debpur,01736500381,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,0,1
+37,39,Ashikul Islam,Kalapara,Barishal,Watermelon,Dakshin Debpur,01777654860,Successful,,,,,,,,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+38,40,Maimum,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+39,41,Kolim Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01780524077,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+40,42,Rabbi,Kalapara,Barishal,Watermelon,Dakshin Debpur,01797858651,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+41,43,Naim Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01806854805,Successful,,,,,,,,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+42,44,Md. Rasel,Kalapara,Barishal,Watermelon,Dakshin Debpur,01747101169,Successful,Yes,Seltima,Seltima,Yes,Yes,Yes,,Valid,1,1,1,6,Seltima,1,Seltima,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+43,45,Monirul Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,01595523793,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+44,46,Josim Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01732860388,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,0,1
+45,47,Atahar Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+46,48,Saiful Gazi,Kalapara,Barishal,Watermelon,Dakshin Debpur,01755693256,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+47,49,Hasan Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01742726265,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+48,50,Al Amin Mridha,Kalapara,Barishal,Watermelon,Dakshin Debpur,01328816435,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+49,51,Md. Sohel Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+50,52,Bahadur Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,161218396464,Wrong Number,,,,,,,,Invalid format,0,0,,0,,,,,,Missing,No survey response,Invalid format; No survey response,0,0,0,1
+51,53,Jakarija,Kalapara,Barishal,Watermelon,Dakshin Debpur,01300594775,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+52,54,Parobhej Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,01723965654,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+53,55,Jolil Biswas,Kalapara,Barishal,Watermelon,Dakshin Debpur,01315658641,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+54,56,Musofik,Kalapara,Barishal,Watermelon,Dakshin Debpur,01713758841,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+55,57,Md. Miraj,Kalapara,Barishal,Watermelon,Dakshin Debpur,01312229915,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+56,58,Md. Rubel,Kalapara,Barishal,Watermelon,Dakshin Debpur,01710244319,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+57,59,Fahad Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01722058494,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+58,60,Md. Ali,Kalapara,Barishal,Watermelon,Dakshin Debpur,01615721860,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+59,61,Md. Mojammel Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,01727547313,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+60,62,Md. Humajon Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01748827366,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+61,63,Md. Johirul Islam,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+62,64,Md. Imn,Kalapara,Barishal,Watermelon,Dakshin Debpur,01726826835,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+63,65,Md. Ajimul Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01715971803,Wrong Number,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+64,66,Md. Rijotu Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01778674700,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+65,67,Md. Forokan Pyada,Kalapara,Barishal,Watermelon,Dakshin Debpur,01736057095,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+66,68,Md. Ajb Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+67,69,Md. Limon,Kalapara,Barishal,Watermelon,Dakshin Debpur,01697432995,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+68,70,Md. Rased,Kalapara,Barishal,Watermelon,Dakshin Debpur,01792668365,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+69,71,Md. Rofik,Kalapara,Barishal,Watermelon,Dakshin Debpur,01792663082,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+70,72,Md. Mishon Mridha,Kalapara,Barishal,Watermelon,Dakshin Debpur,01753739315,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+71,73,Md. Jafor,Kalapara,Barishal,Watermelon,Dakshin Debpur,01798487250,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+72,74,Md. Khairul Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01792164174,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+73,75,Md. Liton Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,01700558215,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+74,76,Md. Sohag,Kalapara,Barishal,Watermelon,Dakshin Debpur,01765112206,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,0,1
+75,77,Md. Masum Billah,Kalapara,Barishal,Watermelon,Dakshin Debpur,01619405617,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+76,78,Bappi Mridha,Kalapara,Barishal,Watermelon,Dakshin Debpur,01712520323,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+77,79,Shaholom Hang,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+78,80,Md. Mamun,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+79,81,Md. Emdad,Kalapara,Barishal,Watermelon,Dakshin Debpur,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,0,1
+80,82,Md. Rijaj,Kalapara,Barishal,Watermelon,Dakshin Debpur,01306474704,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,0,0,1
+81,83,Md. Shakil Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01739755767,Wrong Number,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+82,84,Md. Hubib Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01735735815,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,0,1
+83,85,Md. Ripon,Kalapara,Barishal,Watermelon,Dakshin Debpur,01747903146,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,0,1
+84,86,Md. Sohel,Kalapara,Barishal,Watermelon,Dakshin Debpur,01731252564,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,0,1
+85,87,Md. Jolil,Kalapara,Barishal,Watermelon,Dakshin Debpur,01756835186,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,0,1
+86,88,Saiful,Kalapara,Barishal,Watermelon,Dakshin Debpur,01753266952,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+87,89,Rasel,Kalapara,Barishal,Watermelon,Dakshin Debpur,01775813430,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+88,90,Hasan Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01733030396,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,0,1
+89,91,Baharul,Kalapara,Barishal,Watermelon,Dakshin Debpur,01733685591,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,0,1
+90,92,Buddi Molla,Kalapara,Barishal,Watermelon,Dakshin Debpur,01742783155,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,0,1
+91,93,Md. Ruhul Amin,Barguna,Barishal,Watermelon,Porir Khal,01770541510,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+92,94,Md. Dulal,Barguna,Barishal,Watermelon,Porir Khal,01915117603,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+93,95,Md. Halim,Barguna,Barishal,Watermelon,Porir Khal,01714730122,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+94,96,Md. Iusuf,Barguna,Barishal,Watermelon,Porir Khal,01309970227,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+95,97,Md. Toijob Ali,Barguna,Barishal,Watermelon,Porir Khal,01754393181,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+96,98,Md. Kamal Munshi,Barguna,Barishal,Watermelon,Porir Khal,01718104102,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+97,99,Md. Anchhar Mia,Barguna,Barishal,Watermelon,Porir Khal,01758404928,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+98,100,Md. Mokolechh Sikdar,Barguna,Barishal,Watermelon,Porir Khal,01779590948,Successful,Yes,"Imacto, Rugby","Imacto, Rugby",Yes,Yes,Yes,,Valid,1,1,1,6,"Imacto, Rugby",2,"Imacto, Rugby",2,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+99,101,Md. Mosaref Hang,Barguna,Barishal,Watermelon,Porir Khal,01725281457,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+100,102,Md. Mintu,Barguna,Barishal,Watermelon,Porir Khal,01776943659,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+101,103,Md. Masum,Barguna,Barishal,Watermelon,Porir Khal,01857240062,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+102,104,Alam Molla,Barguna,Barishal,Watermelon,Porir Khal,01714523123,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+103,105,Md. Forokan,Barguna,Barishal,Watermelon,Porir Khal,01785588218,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+104,106,Md. Mahotab,Barguna,Barishal,Watermelon,Porir Khal,01783961938,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+105,107,Md. Ponu Mridha,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+106,108,Md. Kalam,Barguna,Barishal,Watermelon,Porir Khal,01768166699,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+107,109,Md. Liton,Barguna,Barishal,Watermelon,Porir Khal,01983789474,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+108,110,Md. Mosarof Hossain,Barguna,Barishal,Watermelon,Porir Khal,01823501261,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+109,111,Md. Arif,Barguna,Barishal,Watermelon,Porir Khal,01917079283,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+110,112,Md. Jahidul,Barguna,Barishal,Watermelon,Porir Khal,01772342789,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+111,113,Md. Tanim,Barguna,Barishal,Watermelon,Porir Khal,01644273206,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+112,114,Al Kaijum,Barguna,Barishal,Watermelon,Porir Khal,01791580488,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+113,115,Md. Belal,Barguna,Barishal,Watermelon,Porir Khal,01828336832,Successful,Yes,Product name not remembered,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,,0,Mansar,1,2,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+114,116,Md. Hadis Akn,Barguna,Barishal,Watermelon,Porir Khal,01763817559,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+115,117,Md. Nadim,Barguna,Barishal,Watermelon,Porir Khal,01747210432,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+116,118,Md. Abul Hang,Barguna,Barishal,Watermelon,Porir Khal,01709977653,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+117,119,Md. Selim Hang,Barguna,Barishal,Watermelon,Porir Khal,01855821332,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+118,120,Md. Liton,Barguna,Barishal,Watermelon,Porir Khal,01961554911,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+119,121,Md. Mijan,Barguna,Barishal,Watermelon,Porir Khal,01775188359,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+120,122,Md. Salam Gazi,Barguna,Barishal,Watermelon,Porir Khal,01905088270,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+121,123,Md. Kamal Hossain,Barguna,Barishal,Watermelon,Porir Khal,01725570584,Successful,Yes,,,,,,Does not work in agriculture,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+122,124,Md. Mintu,Barguna,Barishal,Watermelon,Porir Khal,01714989112,Successful,Yes,Authority,Authority,Yes,Yes,Yes,,Valid,1,1,1,6,Authority,1,Authority,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+123,125,Md. Rubel Hossain,Barguna,Barishal,Watermelon,Porir Khal,01710019464,Successful,Yes,"Mansar, Semprid, Double, Authority",Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Authority, Semprid, Double",4,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+124,126,Md. Sumon Khan,Barguna,Barishal,Watermelon,Porir Khal,01858591100,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+125,127,A. Khalek,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+126,128,Md. Ismail,Barguna,Barishal,Watermelon,Porir Khal,01340309350,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+127,129,Md. Bellal,Barguna,Barishal,Watermelon,Porir Khal,01405798837,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+128,130,Md. Simul,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+129,131,Md. Faruk,Barguna,Barishal,Watermelon,Porir Khal,01797263913,Successful,Yes,"Mansar, Litosen",Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+130,132,Md. Abdul Barek Hawlader,Barguna,Barishal,Watermelon,Porir Khal,01797196809,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+131,133,Md. Abdul Salam,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+132,134,Md. Hiru,Barguna,Barishal,Watermelon,Porir Khal,01406715656,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+133,135,Md. Jahidul Islam,Barguna,Barishal,Watermelon,Porir Khal,01736600458,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+134,136,Md. Robiul,Barguna,Barishal,Watermelon,Porir Khal,01832420287,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+135,137,Md. Al Amin,Barguna,Barishal,Watermelon,Porir Khal,01727624201,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+136,138,Md. Akkas,Barguna,Barishal,Watermelon,Porir Khal,01759759448,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+137,139,Md. Akkas Khan,Barguna,Barishal,Watermelon,Porir Khal,01850883840,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+138,140,Md. Rijaj,Barguna,Barishal,Watermelon,Porir Khal,01604058984,Successful,Yes,"Mansar, Litosen, Semprid",Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen, Semprid",3,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+139,141,Md. Delojar Hossain,Barguna,Barishal,Watermelon,Porir Khal,01878612266,Successful,Yes,"Mansar, Semprid, Double, Authority",Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Authority, Semprid, Double",4,,0,1,Named product(s),Complete survey response,Valid record,1,0,0,0
+140,142,Md. Rofik,Barguna,Barishal,Watermelon,Porir Khal,01402158718,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+141,143,Chhalam Sikdar,Barguna,Barishal,Watermelon,Porir Khal,01737540534,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+142,144,Md. Khokon,Barguna,Barishal,Watermelon,Porir Khal,01759068755,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+143,145,Md. Shubh,Barguna,Barishal,Watermelon,Porir Khal,01889656228,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+144,146,Md. Tuhin,Barguna,Barishal,Watermelon,Porir Khal,01793541498,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+145,147,Abu Hanif,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+146,148,Sakib,Barguna,Barishal,Watermelon,Porir Khal,01327686671,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+147,149,Md. Mujibur Rahman,Barguna,Barishal,Watermelon,Porir Khal,01714645998,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+148,150,Md. Abdul Hok,Barguna,Barishal,Watermelon,Porir Khal,01707259865,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+149,151,Md. Abul Kalam,Barguna,Barishal,Watermelon,Porir Khal,01980695710,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+150,152,Md. Kabil,Barguna,Barishal,Watermelon,Porir Khal,01785056856,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+151,153,Md. Abdul Malek,Barguna,Barishal,Watermelon,Porir Khal,01730952675,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+152,154,Md. Kabir,Barguna,Barishal,Watermelon,Porir Khal,01709301737,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+153,155,Md. Tofajjel,Barguna,Barishal,Watermelon,Porir Khal,01855271037,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+154,156,Md. Alamgir,Barguna,Barishal,Watermelon,Porir Khal,01735702505,Successful,Yes,"Mansar, Semprid, Double, Authority",Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Authority, Semprid, Double",4,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+155,157,Md. Naim,Barguna,Barishal,Watermelon,Porir Khal,01919958333,Successful,Yes,"Advantage, Imacto, Mansar","Advantage, Imacto, Mansar",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Imacto, Advantage",3,"Mansar, Imacto, Advantage",3,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+156,158,Md. Rijaj Khan,Barguna,Barishal,Watermelon,Porir Khal,01753640691,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+157,159,Md. Jamal Munshi,Barguna,Barishal,Watermelon,Porir Khal,01719846966,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+158,160,Md. Nojon,Barguna,Barishal,Watermelon,Porir Khal,01745221250,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+159,161,Md. Sohag Gazi,Barguna,Barishal,Watermelon,Porir Khal,01913178826,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+160,162,Md. Rasel,Barguna,Barishal,Watermelon,Porir Khal,01795839853,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+161,163,Md. Raju,Barguna,Barishal,Watermelon,Porir Khal,01862763206,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+162,164,Md. Saon,Barguna,Barishal,Watermelon,Porir Khal,01912609541,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+163,165,Md. Abdul Rahim,Barguna,Barishal,Watermelon,Porir Khal,01616624251,Successful,Yes,"Litosen, Mansar, Rugby","Litosen, Mansar, Rugby",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen, Rugby",3,"Mansar, Litosen, Rugby",3,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+164,166,Md. Musa,Barguna,Barishal,Watermelon,Porir Khal,01921554111,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+165,167,Md. Nurul Alam,Barguna,Barishal,Watermelon,Porir Khal,01861692950,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+166,168,Md. Faruk,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+167,169,Md. Majet,Barguna,Barishal,Watermelon,Porir Khal,01749369389,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+168,170,Md. Aijuddin Sikdar,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+169,171,Md. Abu Hanif,Barguna,Barishal,Watermelon,Porir Khal,01751414520,Successful,Yes,"Litosen, Mansar, Rugby",Rugby,Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen, Rugby",3,Rugby,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+170,172,Md. Abdul Jobbar,Barguna,Barishal,Watermelon,Porir Khal,01777336630,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+171,173,Md. Rijad Khan,Barguna,Barishal,Watermelon,Porir Khal,01640312297,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+172,174,Md. Masum Billa,Barguna,Barishal,Watermelon,Porir Khal,01725632016,Successful,Yes,Product name not remembered,Cannot name the product,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+173,175,Md. Jolil,Barguna,Barishal,Watermelon,Porir Khal,01917078206,Successful,Yes,Rugby,Rugby,Yes,Yes,Yes,,Valid,1,1,1,6,Rugby,1,Rugby,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+174,176,Md. Johirul,Barguna,Barishal,Watermelon,Porir Khal,01889467604,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+175,177,Md. Raja,Barguna,Barishal,Watermelon,Porir Khal,01612169293,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+176,178,Md. Khalek Munshi,Barguna,Barishal,Watermelon,Porir Khal,01830880509,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+177,179,Md. Robiul,Barguna,Barishal,Watermelon,Porir Khal,01782605421,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+178,180,Md. Afjal Hossain,Barguna,Barishal,Watermelon,Porir Khal,01704923124,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+179,181,Md. Delojar Hossain,Barguna,Barishal,Watermelon,Porir Khal,01715342674,Wrong Number,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+180,182,Md. Soijod Ali,Barguna,Barishal,Watermelon,Porir Khal,01831500335,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+181,183,Md. Abdur Rob,Barguna,Barishal,Watermelon,Porir Khal,01849498430,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+182,184,Md. Abdur Rahim,Barguna,Barishal,Watermelon,Porir Khal,01745490773,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+183,185,Md. Abdul Mannan,Barguna,Barishal,Watermelon,Porir Khal,01833570611,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+184,186,Md. Sumon,Barguna,Barishal,Watermelon,Porir Khal,01721183355,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+185,187,Sakaojat Hossain,Barguna,Barishal,Watermelon,Porir Khal,01712382588,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+186,188,Ripon Hang,Barguna,Barishal,Watermelon,Porir Khal,01771020139,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+187,189,Sohidul,Barguna,Barishal,Watermelon,Porir Khal,01712004895,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+188,190,Md. Ismail,Barguna,Barishal,Watermelon,Porir Khal,01745825468,Successful,Yes,Product name not remembered,Cannot name the product,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+189,191,Md. Alamgir Hossain,Barguna,Barishal,Watermelon,Porir Khal,01715011999,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+190,192,Md. Faruk,Barguna,Barishal,Watermelon,Porir Khal,01774821246,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+191,193,Md. Abdur Rahim,Barguna,Barishal,Watermelon,Porir Khal,01723112862,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+192,194,Md. Rakib,Barguna,Barishal,Watermelon,Porir Khal,01333382634,Successful,Yes,"Mansar, Litosen",Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+193,195,Salam Musulli,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+194,196,Abdul Kuddus,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+195,197,Md. Liton Mia,Barguna,Barishal,Watermelon,Porir Khal,01774820561,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+196,198,Md. Kholil Molla,Barguna,Barishal,Watermelon,Porir Khal,01719811177,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+197,199,Md. Habibur Rahman,Barguna,Barishal,Watermelon,Porir Khal,01738076895,Successful,Yes,,,,,,No watermelon cultivation,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+198,200,Md. Kalam Khan,Barguna,Barishal,Watermelon,Porir Khal,01725306901,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+199,201,Md. Anojar Hossain,Barguna,Barishal,Watermelon,Porir Khal,01311807539,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+200,202,Md. Abdul Khalek,Barguna,Barishal,Watermelon,Porir Khal,N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,1,0,0,0
+201,203,Md. Arman,Barguna,Barishal,Watermelon,Porir Khal,01781696106,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+202,204,Md. Sohel,Barguna,Barishal,Watermelon,Porir Khal,01629392580,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+203,205,Md. Saiful,Barguna,Barishal,Watermelon,Porir Khal,01339724093,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+204,206,Md. Limon,Barguna,Barishal,Watermelon,Porir Khal,01854691183,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+205,207,Md. Arman,Barguna,Barishal,Watermelon,Porir Khal,01889122372,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+206,208,Md. Nojon,Barguna,Barishal,Watermelon,Porir Khal,01717719119,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+207,209,Md. Jakarija,Barguna,Barishal,Watermelon,Porir Khal,01851814476,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+208,210,Parobhej,Barguna,Barishal,Watermelon,Porir Khal,01781925601,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+209,211,Md. Nur Nobi,Barguna,Barishal,Watermelon,Porir Khal,01818590627,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+210,212,Abul Kalam,Barguna,Barishal,Watermelon,Porir Khal,01339608777,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+211,213,Md. Sojib,Barguna,Barishal,Watermelon,Porir Khal,01774820721,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+212,214,Md. Sohag,Barguna,Barishal,Watermelon,Porir Khal,01611561143,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+213,215,Md. Sagor,Barguna,Barishal,Watermelon,Porir Khal,01771344224,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+214,216,Md. Jakir,Barguna,Barishal,Watermelon,Porir Khal,01715811595,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+215,217,Md. Alamgir,Barguna,Barishal,Watermelon,Porir Khal,01706690359,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+216,218,Md. Harun,Barguna,Barishal,Watermelon,Porir Khal,01929362890,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+217,219,Md. Faroj,Barguna,Barishal,Watermelon,Porir Khal,01774821151,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+218,220,Md. Mamun,Barguna,Barishal,Watermelon,Porir Khal,01612831483,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+219,221,Md. Sohorab,Barguna,Barishal,Watermelon,Porir Khal,01714725539,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+220,222,Md. Nijam,Barguna,Barishal,Watermelon,Porir Khal,01603334590,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+221,223,Md. Mijan,Barguna,Barishal,Watermelon,Porir Khal,01922664106,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+222,224,Al Amin,Barguna,Barishal,Watermelon,Porir Khal,01912300954,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+223,225,Md. Alam,Barguna,Barishal,Watermelon,Porir Khal,01714523123,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+224,226,Md. Idris,Barguna,Barishal,Watermelon,Porir Khal,01774804766,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+225,227,Md. Musa,Barguna,Barishal,Watermelon,Porir Khal,01921554111,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+226,228,Md. Tofajjel,Barguna,Barishal,Watermelon,Porir Khal,01855271037,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+227,229,Md. Shohidul,Barguna,Barishal,Watermelon,Porir Khal,01650208006,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+228,230,Md. Selim,Barguna,Barishal,Watermelon,Porir Khal,01304991062,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+229,231,Md. Motiur Rahman,Barguna,Barishal,Watermelon,Porir Khal,01703794343,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+230,232,Monindr Pal,Barguna,Barishal,Watermelon,Porir Khal,01797146999,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+231,233,Abu Bokkor Siddik,Barguna,Barishal,Watermelon,Porir Khal,01830201810,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+232,234,Nurul Islam Mir,Barguna,Barishal,Watermelon,Porir Khal,01848377241,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+233,235,Md. A. Salam,Barguna,Barishal,Watermelon,Porir Khal,01745060781,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+234,236,Abu Taleb,Barguna,Barishal,Watermelon,Porir Khal,01611905366,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+235,237,Md. Ali Akbor,Barguna,Barishal,Watermelon,Porir Khal,01765584844,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+236,238,Md. Badol Khan,Barguna,Barishal,Watermelon,Porir Khal,01740359906,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+237,239,Md. Rahad,Barguna,Barishal,Watermelon,Porir Khal,01738834706,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+238,240,Md. Masud Rana,Barguna,Barishal,Watermelon,Porir Khal,01741602536,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+239,241,Md. Sohag,Barguna,Barishal,Watermelon,Porir Khal,01708185139,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+240,242,Md. Mehedi Hasan,Barguna,Barishal,Watermelon,Porir Khal,01620945903,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+241,243,Rasel Khalifa,Barguna,Barishal,Watermelon,Porir Khal,01752605497,Successful,Yes,"Litosen, Mansar","Litosen, Mansar",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+242,244,Md. Nechhar Mridha,Barguna,Barishal,Watermelon,Porir Khal,01766801419,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+243,245,Md. Al Amin Mridha,Barguna,Barishal,Watermelon,Porir Khal,01789806060,Successful,Yes,Microthiol,Microthiol,Yes,Yes,Yes,,Valid,1,1,1,6,Microthiol,1,Microthiol,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+244,246,Md. Chhogir Mridha,Barguna,Barishal,Watermelon,Porir Khal,01791469361,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+245,247,Abdullah,Barguna,Barishal,Watermelon,Porir Khal,01791469361,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+246,248,Md. Hasan,Barguna,Barishal,Watermelon,Porir Khal,01718481926,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+247,249,Md. Rajohan Mridha,Barguna,Barishal,Watermelon,Porir Khal,01617586987,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+248,250,Md. Afjar,Barguna,Barishal,Watermelon,Porir Khal,01759454240,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+249,251,Md. Shukur Ali,Barguna,Barishal,Watermelon,Porir Khal,01718166651,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+250,252,Md. Johirul Islam,Barguna,Barishal,Watermelon,Porir Khal,13125367910,Wrong Number,,,,,,,,Invalid format,0,0,,0,,,,,,Missing,No survey response,Invalid format; No survey response,1,0,0,0
+251,253,Md. Sojib,Barguna,Barishal,Watermelon,Porir Khal,01774820721,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+252,254,Md. Harun,Barguna,Barishal,Watermelon,Porir Khal,01929362890,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+253,255,Md. Firoj Kazi,Barguna,Barishal,Watermelon,Porir Khal,01774821151,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+254,256,Md. Jakir Hossain,Barguna,Barishal,Watermelon,Porir Khal,01706690359,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+255,257,Md. Sagor Mia,Barguna,Barishal,Watermelon,Porir Khal,01771344224,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+256,258,Alamgir Hossain,Barguna,Barishal,Watermelon,Porir Khal,01706690359,Successful,Yes,Jampro,Jampro,Yes,Yes,Yes,,Valid,1,1,1,6,Jampro,1,Jampro,1,2,Named product(s),Complete survey response,Valid record,1,0,0,0
+257,259,Md. Jakir Mia,Barguna,Barishal,Watermelon,Porir Khal,01715811595,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+258,260,Md. Sohag,Barguna,Barishal,Watermelon,Porir Khal,01611561143,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+259,261,Md. A. Chhalek Member,Barguna,Barishal,Watermelon,Porir Khal,01772585693,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+260,262,Md. Mamun Khan,Barguna,Barishal,Watermelon,Porir Khal,01612831483,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+261,263,Md. Sohorab,Barguna,Barishal,Watermelon,Porir Khal,01714725539,Successful,Yes,Product name not remembered,Will use later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,1,0,0,0
+262,264,Sohel Rana,Barguna,Barishal,Watermelon,Porir Khal,01608122533,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+263,265,Md. Mosarorof Hossain,Barguna,Barishal,Watermelon,Porir Khal,01818591149,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+264,266,A. Sobohan,Barguna,Barishal,Watermelon,Porir Khal,01614629207,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+265,267,Md. Nijam,Barguna,Barishal,Watermelon,Porir Khal,01603334590,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,1,0,0,0
+266,268,Al- Amin,Barguna,Barishal,Watermelon,Porir Khal,01712968290,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+267,269,Md. Mijanur Rahman,Barguna,Barishal,Watermelon,Porir Khal,01922664106,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+268,270,Md. Musa,Barguna,Barishal,Watermelon,Porir Khal,01921554111,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,1,0,0,0
+269,271,Md. Monir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01714257044,Successful,Yes,"Mansar, NAAFCO Boron, SOP","Mansar, NAAFCO Boron, SOP",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Boron, SOP",3,"Mansar, Boron, SOP",3,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+270,272,Md. Bantu Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01749339092,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+271,273,Md. Mostofa,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01782429079,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,1,0,0
+272,274,Md. Limon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01300836578,Successful,Yes,"NAAFCO Boron, Double","NAAFCO Boron, Double",Yes,Yes,Yes,,Valid,1,1,1,6,"Boron, Double",2,"Boron, Double",2,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+273,275,Md. Sobuj Shorif,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01730473896,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+274,276,Md. Rahat Bhai,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01785268536,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+275,277,Md. Limon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01745458991,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+276,278,Md. Nasir Chowkidar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01745951348,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+277,279,Md. Habibullah,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01747612649,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+278,280,Md. Nojorul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",00162922269,Switch off,,,,,,,,Invalid format,0,0,,0,,,,,,Missing,No survey response,Invalid format; No survey response,0,1,0,0
+279,281,Md. Sohag,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01754963855,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+280,282,Md. Rubel,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01760338843,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+281,283,Md. Al Amin,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01300571195,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+282,284,Md. Boshir Chowkidar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01776206950,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+283,285,Md. Rasel Shorif,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01770064220,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+284,286,Anis,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01754059860,Successful,Yes,"Mansar, NAAFCO Boron, SOP","Mansar, NAAFCO Boron, SOP",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Boron, SOP",3,"Mansar, Boron, SOP",3,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+285,287,Md. Mohasin Matubbar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01776621488,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+286,288,Md. Hasib,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01301766861,Successful,Yes,"Mansar, NAAFCO Boron, SOP","Mansar, NAAFCO Boron, SOP",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Boron, SOP",3,"Mansar, Boron, SOP",3,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+287,289,Md. Jafor,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01739989219,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+288,290,Md. Ismail,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01310992859,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+289,291,Md. Sakib,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01603565342,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+290,292,Md. Rakib,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01306169853,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+291,293,Md. Forokan Pjasokar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01799414446,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+292,294,Md. Kamal,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01772348214,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+293,295,Md. Josim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01715800552,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+294,296,Md. Samosul Alam,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01779035435,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+295,297,Md. Sofijul Hok,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01784379104,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+296,298,Md. Forid,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01736076418,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+297,299,Md. Kasem Hang,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+298,300,Md. Khalek Mir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+299,301,Md. Arafat,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01785880461,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+300,302,Md. Ajim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01327736471,Successful,Yes,Microthiol,No,Yes,Yes,Yes,,Valid,1,1,1,6,Microthiol,1,,0,0,Named product(s),Complete survey response,Valid record,0,1,0,0
+301,303,Md. Jalal Hang,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01732911724,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+302,304,Md. Lekajet,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01718479071,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+303,305,Md. Babul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01733730669,Successful,Yes,Liked all products,Uses all products,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,2,"General positive, no named product",Complete survey response,Valid record,0,1,0,0
+304,306,Md. Hanif,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01723037629,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+305,307,Md. Sobuj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01717081183,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+306,308,Rajohan,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01703422888,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+307,309,Sobuj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01734083602,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+308,310,Tajul Islam,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01728339070,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+309,311,Enamul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01726954262,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+310,312,Sujon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01719626542,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+311,313,Anichur Rahman,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01724255292,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+312,314,Boshir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01718203081,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+313,315,Md. Jakir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01757646327,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+314,316,Rahim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01786216082,Successful,Yes,"Mansar, NAAFCO Boron, SOP","Mansar, NAAFCO Boron, SOP",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Boron, SOP",3,"Mansar, Boron, SOP",3,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+315,317,Sbopon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01727827167,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+316,318,Kholil Biswas,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+317,319,Jantu,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01749339092,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+318,320,Firoj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01754408048,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+319,321,Johirul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01322388233,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+320,322,Rahman Ali,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+321,323,Rustom,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+322,324,Sobohan,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+323,325,Milon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01773764529,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+324,326,Rofik,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01737154373,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+325,327,Md. Amir Hossain,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01701443013,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+326,328,Md. Jalal,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01740749213,Successful,Yes,"Double, Pillarthen, Mansar, NAAFCO Boron","Double, Pillarthen, Mansar, NAAFCO Boron",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Boron, Double, Pillarthen",4,"Mansar, Boron, Double, Pillarthen",4,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+327,329,Monir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01768992502,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+328,330,Mahobub Alam,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01859521851,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+329,331,Sohel,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01748870305,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+330,332,Naim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01712720145,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+331,333,Rasel,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01728633103,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+332,334,Shohidul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01303917472,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+333,335,Ijasin Chowdhury,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01790006742,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+334,336,Monir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01342944003,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+335,337,Jalal Hang,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+336,338,Abu Kalam,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+337,339,Abul Kasem,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01726736585,Successful,Yes,Semcap NAAFCO Boron,Semcap NAAFCO Boron,Yes,Yes,Yes,,Valid,1,1,1,6,"Boron, Semcap",2,"Boron, Semcap",2,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+338,340,Jahanggir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01793182948,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+339,341,Rasel Shorif,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01770064220,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+340,342,Abdul Rajjak Matubbar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01716023309,Successful,Yes,,,,,,,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+341,343,Jannal Hossain,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01791591014,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+342,344,Shohidul Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01718365399,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+343,345,Abdul Kader Sikdar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01315804400,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+344,346,Iusuf Bayati,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01786681316,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+345,347,Iusuf Hang,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01728310916,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+346,349,Hossain Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01898843255,Successful,Yes,SOP,SOP,Yes,Yes,Yes,,Valid,1,1,1,6,SOP,1,SOP,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+347,350,Mojammel Pyada,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01735866198,Successful,Yes,"Double, Pillarthen, Mansar, SOP","Double, Pillarthen, Mansar, SOP",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Double, SOP, Pillarthen",4,"Mansar, Double, SOP, Pillarthen",4,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+348,351,Monir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01754826753,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+349,352,Badol Pyada,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01315507455,Successful,Yes,"Double, Pillarthen, Mansar","Double, Pillarthen, Mansar, SOP",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Double, Pillarthen",3,"Mansar, Double, SOP, Pillarthen",4,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+350,353,Rifat Pyada,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+351,354,Kuddus Hang,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01797979441,Successful,Yes,Mansar,Pencozeb,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Pencozeb,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+352,355,Abu Taher,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01723424869,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+353,356,Masud,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+354,357,A. Ali,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+355,358,Rajohan,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01737227216,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+356,359,Ilijas,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01725649454,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+357,360,Sohag,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01797994678,Successful,Yes,Mansar,No,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,,0,0,Named product(s),Complete survey response,Valid record,0,1,0,0
+358,361,Robiul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+359,362,Ilijas,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01716482425,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+360,363,Md. Badol Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01753559764,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+361,364,Md. Baijid,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01827092724,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+362,365,Forokan,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01775077691,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+363,366,Shohidul Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01718365399,Successful,Yes,"Mansar, Litosen, NAAFCO Zinc","Mansar, Litosen, NAAFCO Zinc",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen, Zinc",3,"Mansar, Litosen, Zinc",3,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+364,367,Chhalam,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01726947499,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+365,368,Mohiuddin,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01730162390,Successful,Yes,NAAFCO Zinc,NAAFCO Zinc,Yes,Yes,Yes,,Valid,1,1,1,6,Zinc,1,Zinc,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+366,369,Modon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01737454286,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,1,0,0
+367,370,Bellal Mridha,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01790614850,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,1,0,0
+368,371,Ikbal,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01780178093,Successful,Yes,,,,,,,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+369,372,Boshar Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01724958896,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+370,373,Mohiuddin,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01716327568,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+371,374,Ratul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01300548825,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+372,375,Milon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01773764529,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+373,376,Badol,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01315507455,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+374,377,Sakib,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01783375346,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+375,378,Masud,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01732938673,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+376,379,Nur Islam,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01824595825,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+377,380,Jolil,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01778605744,Successful,Yes,Liked all products,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,"General positive, no named product",Complete survey response,Valid record,0,1,0,0
+378,381,Parobhej,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01749900561,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+379,382,Jakir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01703005775,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+380,383,Shamim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01767380200,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+381,384,Sbopon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01727827167,Successful,Yes,Liked all products,Uses all products,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,2,"General positive, no named product",Complete survey response,Valid record,0,1,0,0
+382,385,Romij,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01749370648,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+383,386,Rajjak,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01716023309,Successful,Yes,,,,,,Employs workers for cultivation,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+384,387,Jakir Jomaddar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+385,388,Miraj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01308836901,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+386,389,Sobuj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01319470101,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+387,390,Musa Sikdar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01724429723,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+388,391,Amir Hossain,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01741841623,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+389,392,Amir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01701443013,Successful,Yes,"Mansar, NAAFCO Boron","Mansar, NAAFCO Boron",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Boron",2,"Mansar, Boron",2,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+390,393,Mafuj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",17375743578,Switch off,,,,,,,,Invalid format,0,0,,0,,,,,,Missing,No survey response,Invalid format; No survey response,0,1,0,0
+391,394,Forad,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01719758263,Successful,Yes,Litosen,Litosen,Yes,Yes,Yes,,Valid,1,1,1,6,Litosen,1,Litosen,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+392,395,Ikbal,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01780178093,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+393,396,Aktar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01301587029,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+394,397,Miraj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01710519477,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+395,398,Sujon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01719626542,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+396,399,Firoj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01754408048,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+397,400,Shohid,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01723289842,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+398,401,Josim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01715800552,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+399,402,Moslem,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01761106546,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+400,403,Jijaul Hok,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01744180090,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+401,404,Ruhul Akn,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+402,405,Rahman Bepari,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01733268983,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+403,406,Kalachan,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01727476914,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+404,407,Shahojahan,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01782032308,Successful,,,,,,,Does not cultivate watermelon,Valid,1,1,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+405,408,Kuddus,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01988875026,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+406,409,Israfil,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01749894340,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+407,410,Lotif Sardar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+408,411,Ahmmod Ali,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+409,412,Ibrahim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01774798326,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+410,413,Miraj,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01710519477,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+411,414,Rubel,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01306366206,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+412,415,Salam,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01726947499,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+413,416,Shamim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01767380200,Successful,Yes,"Seltima, Litosen","Seltima, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Litosen, Seltima",2,"Litosen, Seltima",2,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+414,417,Tuhin,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01710319050,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+415,418,Alamgir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01794205503,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+416,419,Enamul,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01726954262,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+417,420,Monir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01323002630,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+418,421,Anojar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01713499842,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+419,422,A. Rahim,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+420,423,Chan Mia,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01790982904,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+421,424,Harun,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01789161635,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+422,425,Mamun,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01727511904,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+423,426,Monir,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+424,427,Roni,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01717381442,Successful,Yes,"Mansar, Litosen, Jampro, Tango","Mansar, Litosen, Jampro, Tango",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen, Jampro, Tango",4,"Mansar, Litosen, Jampro, Tango",4,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+425,428,Sumon,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01754919728,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+426,429,Iusuf Bayati,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01786681316,Successful,Yes,NAAFCO Zinc,NAAFCO Zinc,Yes,Yes,Yes,,Valid,1,1,1,6,Zinc,1,Zinc,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+427,430,Iusuf Hang,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01728310916,Successful,Yes,Litosen,Litosen,Yes,Yes,Yes,,Valid,1,1,1,6,Litosen,1,Litosen,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+428,431,Forokan,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01775077691,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+429,432,Jantu Mia,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+430,433,Shohidul Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01718365099,Wrong Number,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+431,434,Selim Gazi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01722768515,Successful,Yes,NAAFCO Boron,NAAFCO Boron,Yes,Yes,Yes,,Valid,1,1,1,6,Boron,1,Boron,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+432,435,Alauddin,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01770085960,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+433,437,Lekajet,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01718479071,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+434,438,Jafor,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01739989219,Successful,Yes,"Mansar, Litosen","Mansar, Litosen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Litosen",2,"Mansar, Litosen",2,2,Named product(s),Complete survey response,Valid record,0,1,0,0
+435,439,Mostofa Sardar,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,1,0,0
+436,441,Rabbi,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01327943083,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+437,442,Rasel,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01756452144,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+438,443,Abdullah,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01716397483,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,1,0,0
+439,444,Amin,Patuakhali,Barishal,Watermelon,"Kalai Shoula, Bauphal",01749290906,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,1,0,0
+440,445,Md. Nuru Uddin,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01325502436,Successful,Yes,"Double, Pillarthen","Double, Pillarthen",Yes,Yes,Yes,,Valid,1,1,1,6,"Double, Pillarthen",2,"Double, Pillarthen",2,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+441,446,Md. Hannan Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01700596842,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+442,447,Md. Jakir Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01327120762,Successful,Yes,,,,,,Does not cultivate watermelon,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+443,448,Md. Sojib,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01325249119,Successful,Yes,"Rugby, Double, Pillarthen, Mansar","Rugby, Double, Pillarthen",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Rugby, Double, Pillarthen",4,"Rugby, Double, Pillarthen",3,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+444,449,Md. Soijod Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01729796705,Successful,Yes,"Double, Pillarthen","Double, Pillarthen",Yes,Yes,Yes,,Valid,1,1,1,6,"Double, Pillarthen",2,"Double, Pillarthen",2,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+445,450,Md. Mohiuddin,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01746666808,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+446,451,Md. Iusuf Karigor,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01732094621,Successful,Yes,"Mansar, Boron, Zinc, Semcap","Mansar, Boron, Zinc, Semcap",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Zinc, Boron, Semcap",4,"Mansar, Zinc, Boron, Semcap",4,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+447,452,Md. Jamal Bepari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01756067847,Successful,Yes,"Double, Pillarthen, Mansar","Double, Pillarthen, Mansar",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Double, Pillarthen",3,"Mansar, Double, Pillarthen",3,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+448,453,Md. Jaher Jamaddar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01706577515,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+449,454,Md. Motahar Farazi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+450,455,Md. Firoj,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01728952462,Successful,Yes,"Rugby, Mansar","Rugby, Mansar",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Rugby",2,"Mansar, Rugby",2,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+451,456,Md. Nojab Ali,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+452,457,Md. Anojar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01779243315,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+453,458,Md. Hasan,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01777176440,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+454,459,Md. Arif,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01742656440,Successful,Yes,"Boron, Authority","Boron, Authority",Yes,Yes,Yes,,Valid,1,1,1,6,"Boron, Authority",2,"Boron, Authority",2,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+455,460,Md. Ahad,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01783625208,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+456,461,Md. Mofij Hawlader,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+457,462,Md. Sumon Dalal,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",00170818319,Wrong Number,,,,,,,,Invalid format,0,0,,0,,,,,,Missing,No survey response,Invalid format; No survey response,0,0,1,0
+458,463,Md. Sijam,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01410002046,Successful,Yes,,,,,,Works as a tailor,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+459,464,Md. Abul Khayer,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01771231500,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+460,465,Md. Babul Matubbar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01759476425,Successful,Yes,Product name not remembered,Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+461,466,Md. Soijod Mal,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+462,467,Jantu Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01755808569,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+463,468,Md. Monir Molla,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01793713566,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+464,469,Md. Sumon Pandit,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01793054886,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+465,470,Md. Rakib,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01742534706,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+466,471,Md. Hanif Majhi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+467,472,Md. Firoj Bepari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01720836862,Successful,Yes,Product name not remembered,Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+468,473,Al Islam Goldar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01745622153,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+469,474,Md. Mainuddin,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01764591507,Switch off,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+470,475,Nasir Bepari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01741591501,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+471,476,Md. Abu Taher Kazi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01716956761,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+472,477,Md. Ibrahim,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01705152693,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+473,478,Md. Amir Hossain,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+474,479,Md. Sbopon Farazi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01726035925,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+475,480,Sumon Patwari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01738226050,Successful,Yes,Rugby,Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,Rugby,1,,0,1,Named product(s),Complete survey response,Valid record,0,0,1,0
+476,481,Md. Fojosal Molla,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01763945772,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+477,482,Md. Monir,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01760820010,Successful,Yes,Product name not remembered,Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+478,483,Md. Sijam Majhi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01787477803,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+479,484,Md. Sahe Alam Majhi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+480,485,Md. Hashem Baga,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+481,486,Md. Sumon Mal,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01301002771,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+482,487,Md. Hossain,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",00175790312,Wrong Number,,,,,,,,Invalid format,0,0,,0,,,,,,Missing,No survey response,Invalid format; No survey response,0,0,1,0
+483,488,Md. Ashraful Mridha,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01782082954,Successful,Yes,"Pillarthen, Double",Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,"Double, Pillarthen",2,,0,1,Named product(s),Complete survey response,Valid record,0,0,1,0
+484,489,Md. Siraj Majhi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01779834611,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+485,490,Md. Sahajan Molla,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+486,491,Md. Kanchon Driver,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01789417233,Successful,Yes,Product name not remembered,Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+487,492,Md. Asad Molla,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01765214428,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+488,493,Md. Barek Gazi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+489,494,Md. Sbopon Mal,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01795891478,Successful,Yes,Mansar,Mansar,Yes,Yes,Yes,,Valid,1,1,1,6,Mansar,1,Mansar,1,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+490,495,Md. Nirob Bepari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01747339823,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+491,496,Md. Jahanggir Bepari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01747597663,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+492,497,Md. Jojonal Badosha,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01783406601,Successful,Yes,Product name not remembered,Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+493,498,Md. Monir Mridha,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01319576041,Successful,Yes,Product name not remembered,Will buy products later,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,1,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+494,499,Md. Nagor Sikdar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+495,500,Md. Anisul Hok Kanu,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+496,501,Md. Didar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01301245776,N/G,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+497,502,Md. Mamun Molla,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01771827346,Successful,Yes,Product name not remembered,No,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,0,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+498,503,Md. Sakil,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01707111257,Successful,Yes,,,,,,No watermelon crop,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+499,504,Md. Jisan,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01714401081,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+500,505,Md. Shipon Khondokar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01344890493,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+501,506,Md. Kamal,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01775224691,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+502,507,Md. Rijaj,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01938735598,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+503,508,Md. Kalu Majhi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01770418506,Successful,Yes,,,,,,No crop,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+504,509,Md. Kasem Bepari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01736184910,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+505,510,Md. Abul Kasem,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01718130814,Successful,Yes,,,,,,No watermelon crop,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+506,511,Md. Kabir Farazi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01703630408,Successful,Yes,Product name not remembered,Product name not remembered,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+507,512,Md. Asad,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01754079729,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+508,513,Parobej Mistri,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01703772158,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+509,514,Md. Belajet Mistri,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01327014629,Successful,Yes,Product name not remembered,No,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,0,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+510,515,Md. Rakib,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01771303779,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+511,516,Md. Kuddus Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01784456514,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+512,517,Md. Sorif,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01771324418,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+513,518,Md. Asad Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01720072925,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+514,519,Md. Shahajol,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+515,520,Md. Toijob Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01724426110,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+516,521,Md. Ajij Mridha,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01723242280,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+517,522,Md. Asaf Mistri,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01721373590,Successful,Yes,Product name not remembered,No,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,0,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+518,523,Md. Sakib,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01400075464,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+519,524,Md. Sagor Mia,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01815685086,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+520,525,Md. Kabir Hang,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01733689982,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+521,526,Md. Miraj,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01728313194,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+522,527,Md. Mehedi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01754634559,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+523,528,Md. Hasan,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01994931393,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+524,529,Md. Mokolechh,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01739859036,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+525,530,Md. Shamim,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01765265006,Successful,Yes,,,,,,No watermelon cultivation,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+526,531,Md. Shahin Dokandar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01326694672,Busy,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+527,532,Md. Jakir,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01729332591,Successful,Yes,,,,,,No watermelon cultivation,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+528,533,Md. Hannan Bhai,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01610426672,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+529,534,Md. Abu Hanif,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01633156122,Successful,Yes,"SOP Fertilizer, Microthiol",Microthiol,Yes,Yes,Yes,,Valid,1,1,1,6,"Microthiol, SOP",2,Microthiol,1,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+530,535,Md. Ibrahim,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01603367446,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+531,536,Md. Rijaj Pyada,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01704813703,Successful,No,,,,,,,Valid,1,1,0,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+532,537,Md. Sakib Hang,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01624520966,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+533,538,Md. Ajgor,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01758633409,Successful,Yes,Product name not remembered,No,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,0,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+534,539,Md. Hafej,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01791314061,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+535,540,Md. Delojar Majhi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01732912694,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+536,541,Md. Shamim,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01317566785,Successful,Yes,,,,,,Another family member works in agriculture,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+537,542,Md. Jahanggir Miji,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01754639893,Successful,Yes,,,,,,Another family member works in agriculture,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+538,543,Md. Tuhin,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01781057966,Successful,Yes,,,,,,Another family member works in agriculture,Valid,1,1,1,1,,,,,,Missing,Partial survey response,Partial survey response,0,0,1,0
+539,544,Md. Rasel Bepari,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01323445704,Unreachable,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+540,545,Md. Khokon Miji,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01751481299,Successful,Yes,"Authority, Mansar, Microthiol","Authority, Mansar, Microthiol",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Authority, Microthiol",3,"Mansar, Authority, Microthiol",3,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+541,546,Md. Lokoman Khan,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01798879442,Successful,Yes,Product name not remembered,Yes,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,2,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+542,547,Md. Miraj Jamaddar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01772987502,Successful,Yes,"Double, Pillarthen",Yes,Yes,Yes,Yes,,Valid,1,1,1,6,"Double, Pillarthen",2,,0,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+543,548,Md. Abu Taher Kazi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01716956761,Repeat,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+544,549,Md. Masud Majhi,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+545,550,Md. Abul Kalam Mridha,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01773412907,Successful,Yes,Product name not remembered,Yes,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,2,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+546,551,Md. Mamun Chowkidar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01721070531,Successful,Yes,Product name not remembered,Yes,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,2,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+547,552,Md. Alauddin Sikdar,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01763439113,Successful,Yes,Rugby,Rugby,Yes,Yes,Yes,,Valid,1,1,1,6,Rugby,1,Rugby,1,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+548,553,Md. Raihan,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01726996547,Successful,Yes,"Double, Pillarthen, Mansar","Double, Pillarthen, Mansar",Yes,Yes,Yes,,Valid,1,1,1,6,"Mansar, Double, Pillarthen",3,"Mansar, Double, Pillarthen",3,2,Named product(s),Complete survey response,Valid record,0,0,1,0
+549,554,Md. Liton Salotija,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
+550,555,Abu Taher,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01758395677,Someone Receive,,,,,,,,Valid,1,0,,0,,,,,,Missing,No survey response,No survey response,0,0,1,0
+551,556,Alamj,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01791592677,Successful,Yes,Product name not remembered,Yes,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,2,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+552,557,Iusuf,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",01798715082,Successful,Yes,Product name not remembered,Yes,Yes,Yes,Yes,,Valid,1,1,1,6,,0,,0,2,Unknown / cannot recall,Complete survey response,Valid record,0,0,1,0
+553,558,Mofijul Hok,Charfashon,Barishal,Watermelon,"Mujibnagar, Charfashon",N/G,N/G,,,,,,,,Not Given (N/G),0,0,,0,,,,,,Missing,No survey response,Not Given (N/G); No survey response,0,0,1,0
